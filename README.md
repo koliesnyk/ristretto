@@ -4,7 +4,7 @@ A dark theme for [Zed](https://zed.dev) with a muted, low-contrast palette inspi
 
 ## Preview
 
-> Screenshot coming soon
+![Ristretto theme preview](assets/ristretto.png)
 
 ## Palette
 
