@@ -1,0 +1,17 @@
+id = "ristretto"
+name = "Ristretto"
+version = "0.1.0"
+schema_version = 1
+description = "Dark theme with muted palette and custom icons"
+authors = ["Anton Koliesnyk"]
+themes = ["themes/ristretto.json"]
+icon_themes = ["icon_themes/ristretto.json"]
+languages = []
+capabilities = []
+
+[lib]
+[grammars]
+[language_servers]
+[context_servers]
+[agent_servers]
+[slash_commands]
